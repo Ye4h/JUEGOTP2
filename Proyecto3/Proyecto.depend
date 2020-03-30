@@ -1,0 +1,164 @@
+# depslib dependency file v1.0
+1580839024 source:c:\users\alumno\desktop\proyecto\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1580839028 c:\users\alumno\desktop\proyecto\pantalla.h
+	"SDL2/SDL.h"
+
+1582800281 source:c:\users\alumno\desktop\proyecto\main.c
+	"Pantalla.h"
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+
+1580839023 source:c:\users\alumno\desktop\proyecto\proyecto\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1580839027 c:\users\alumno\desktop\proyecto\proyecto\pantalla.h
+	"SDL2/SDL.h"
+
+1582194618 source:c:\users\alumno\desktop\proyecto\proyecto\main.c
+	"Pantalla.h"
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+
+1582802250 source:c:\users\alumno\desktop\proyecto2\main.c
+	"Pantalla.h"
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+
+1580839028 c:\users\alumno\desktop\proyecto2\pantalla.h
+	"SDL2/SDL.h"
+
+1580839024 source:c:\users\alumno\desktop\proyecto2\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1583961782 source:f:\proyecto3\main.c
+	"Pantalla.h"
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	"personaje.h"
+
+1580839028 f:\proyecto3\pantalla.h
+	"SDL2/SDL.h"
+
+1580839024 source:f:\proyecto3\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1583961240 source:f:\proyecto3\personaje.c
+	"Personaje.h"
+	<stdlib.h>
+
+1583960992 f:\proyecto3\personaje.h
+	"Pantalla.h"
+
+1583402088 source:f:\proyecto3\untitled1.c
+
+1585165816 source:c:\users\antonio\desktop\proyecto3\main.c
+	"Pantalla.h"
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	"personaje.h"
+	"Colision.h"
+	"enemigo.h"
+	"estrella.h"
+	"galaxia.h"
+	"ejercito.h"
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	"personaje.h"
+	"Colision.h"
+	"enemigo.h"
+	"estrella.h"
+	"galaxia.h"
+	"ejercito.h"
+
+1580839028 c:\users\antonio\desktop\proyecto3\pantalla.h
+	"SDL2/SDL.h"
+
+1584441732 c:\users\antonio\desktop\proyecto3\personaje.h
+	"Pantalla.h"
+
+1580839024 source:c:\users\antonio\desktop\proyecto3\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1584445017 source:c:\users\antonio\desktop\proyecto3\personaje.c
+	"Personaje.h"
+	<stdlib.h>
+
+1584442961 source:c:\users\antonio\desktop\proyecto3\colision.c
+	"Colision.h"
+	<math.h>
+
+1584443478 c:\users\antonio\desktop\proyecto3\colision.h
+
+1584453763 source:c:\users\antonio\desktop\proyecto3\enemigo.c
+	"enemigo.h"
+	<stdlib.h>
+	"personaje.h"
+
+1585085458 c:\users\antonio\desktop\proyecto3\enemigo.h
+	"Pantalla.h"
+	"personaje.h"
+
+1584468875 source:c:\users\antonio\desktop\proyecto3\estrella.c
+	"estrella.h"
+	<stdlib.h>
+
+1584468875 c:\users\antonio\desktop\proyecto3\estrella.h
+	"Pantalla.h"
+	"personaje.h"
+
+1584473683 source:c:\users\antonio\desktop\proyecto3\galaxia.c
+	"galaxia.h"
+	"pantalla.h"
+	"estrella.h"
+	<stdlib.h>
+	<stdio.h>
+
+1584471658 c:\users\antonio\desktop\proyecto3\galaxia.h
+	"Pantalla.h"
+	"personaje.h"
+
+1585165931 c:\users\antonio\desktop\proyecto3\ejercito.h
+	"pantalla.h"
+	"personaje.h"
+	"enemigo.h"
+
+1585166033 source:c:\users\antonio\desktop\proyecto3\ejercito.c
+	"galaxia.h"
+	"pantalla.h"
+	"ejercito.h"
+	"enemigo.h"
+	<stdlib.h>
+	<stdio.h>
+	"pantalla.h"
+	"ejercito.h"
+	<stdlib.h>
+	<stdio.h>
+
